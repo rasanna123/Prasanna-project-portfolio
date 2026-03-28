@@ -26,8 +26,10 @@ Python (Boto3, Paramiko, PyYAML, Requests, PyCharm), YAML
 Web Application Firewall (WAF), Application Gateway, Load Balancer, Traffic Manager, SSL, Azure AD,IAM
 
 **Featured Projects**
+
 **Project 1**
-Sr. Azure DevOps Engineer at JoulesToWatts  
+Sr. Azure DevOps Engineer at JoulesToWatts 
+
 **Key Contributions**
 •Led AWS-to-Azure and on-premise-to-Azure migrations, engineering all infrastructure in Terraform modules to ensure repeatable, version-controlled provisioning — zero manual console changes.
 •Designed and maintained CI/CD pipelines as code (YAML-based Azure DevOps pipelines) for Java application testing, treating pipeline definitions with the same standards as application source code: code review, branching strategy, and modular reuse.
@@ -40,6 +42,7 @@ Sr. Azure DevOps Engineer at JoulesToWatts
 
 **Project 2**
 Sr. Software Engineer at TechMahindra 
+
 **Key Contributions**
 •Enforced infrastructure-as-code practices using Terraform and Ansible across Azure and AWS environments, ensuring every infrastructure change was peer-reviewed, version-controlled, and applied through automated pipelines — no manual deployments.
 •Developed and maintained clean, modular Python automation services (Boto3, Paramiko, PyYAML, Docker/Kubernetes integrations) following maintainable code standards.
